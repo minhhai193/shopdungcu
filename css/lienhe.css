@@ -1,0 +1,21 @@
+.title_style h3{
+    color: #EC6F0B;
+    font-weight: bold;
+}
+
+.formDangki .form-control{
+    margin-bottom: 20px;
+    height: 40px;
+}
+
+.formDangki button{
+    border: 1px solid black;
+    width: 60px;
+    height: 30px;
+    background-color: #EC6F0B;
+    color: white;
+}
+
+.formDangki button:hover{
+    background-color: #dc3545;
+}

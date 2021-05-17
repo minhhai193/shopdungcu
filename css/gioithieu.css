@@ -1,0 +1,19 @@
+.title_style h3{
+    color: #EC6F0B;
+    font-weight: bold;
+}
+
+.noidung_gioithieu h5{
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.noidung_gioithieu p{
+    font-size: 0.9em;
+    margin: 0 0 0 2em;
+}
+
+.noidung_gioithieu h4{
+    margin-top: 1em;
+    font-size: 14px;
+}

@@ -1,0 +1,9 @@
+.img img{width:100%;}
+.tensanpham{border-bottom:1px solid #dad5d5;}
+.tensanpham h3{color:#ec6f0b;}
+.chitietsanpham p{margin-bottom:1em;padding-bottom:1em;border-bottom:1px solid #dad5d5;font-weight:bold;}
+.chitietsanpham span{color:red;}
+.add_cart span{color:black;font-weight:bold;}
+.datmua{background:#ec6f0b;color:white;border:1px solid black;}
+.datmua:hover{color:black;}
+.chitietpost .title-style-1{width: 100%;}

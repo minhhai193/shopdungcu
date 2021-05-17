@@ -1,0 +1,26 @@
+.tbl_title{
+    background: #ec6f0b;
+    width: 100%;
+}
+
+.tbl_title td{
+    border-right: 1px solid white;
+    color:white;
+    font-weight: bold;
+}
+.tbl_hienthi{
+    background: white;
+    width: 100%;
+}
+
+.tbl_hienthi img{
+    width: 100%;
+}
+
+.tbl_hienthi tr{
+    align-items: center;
+}
+
+.tonggia{
+    background-color: #ec6f0b;
+}
